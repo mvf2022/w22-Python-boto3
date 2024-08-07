@@ -1,0 +1,15 @@
+Job_name,Job_url,Job_color
+agent-job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/agent-job/,blue
+first-job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/first-job/,blue
+first-pipeline-job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/first-pipeline-job/,blue
+geosolution,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/geosolution/,blue
+job-with-parameter-project,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/job-with-parameter-project/,blue
+maven-project,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/maven-project/,blue
+nodejs-app,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/nodejs-app/,blue
+QA,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/QA/,
+reccurent_job,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/reccurent_job/,blue
+run-script,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/run-script/,notbuilt
+terraform-code-dev-project,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/terraform-code-dev-project/,red
+geolocation,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/QA/job/geolocation/,notbuilt
+geolocation1,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/QA/job/geolocation1/,blue
+python-test,http://ec2-3-236-89-136.compute-1.amazonaws.com:8080/job/QA/job/python-test/,red
